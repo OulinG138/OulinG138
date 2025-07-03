@@ -28,7 +28,7 @@
 
 
 <!-- Skills Emoji -->
-[![My Skills](https://skillicons.dev/icons?i=c,py,java,ts,js,react,tailwind,materialui,nextjs,nestjs,express,django,git,prisma,mysql,mongodb,supabase,postman,docker,neovim,obsidian&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,java,ts,js,react,tailwind,materialui,nextjs,nestjs,express,git,prisma,postman,mysql,mongodb,postgresql,redis,aws,docker,neovim&theme=dark&perline=7)](https://skillicons.dev)
 
 
 
